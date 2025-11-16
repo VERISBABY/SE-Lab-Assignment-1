@@ -1,0 +1,138 @@
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.exe
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.dll.config
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.deps.json
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.runtimeconfig.json
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.pdb
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.Forms.FormDestination.resources
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.Forms.FormPayment.resources
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.Forms.FormResult.resources
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVe.7515C443.Up2Date
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\refint\TicketVendorMachine.dll
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.pdb
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\ref\TicketVendorMachine.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.csproj.AssemblyReference.cache
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.Forms.FormDestination.resources
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.Forms.FormPayment.resources
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.Forms.FormResult.resources
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.csproj.GenerateResource.cache
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.AssemblyInfoInputs.cache
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.AssemblyInfo.cs
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\refint\TicketVendorMachine.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.pdb
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.exe
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.dll.config
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.deps.json
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.runtimeconfig.json
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\TicketVendorMachine.pdb
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVe.7515C443.Up2Date
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\TicketVendorMachine.genruntimeconfig.cache
+C:\Users\thenh\OneDrive\Máy tính\CN Phần mềm Exam\assig 1\TicketVendorMachine\TicketVendorMachine\obj\Debug\net8.0-windows\ref\TicketVendorMachine.dll
